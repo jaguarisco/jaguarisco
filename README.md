@@ -1,5 +1,5 @@
 # sobre mim
-## guri da rua
+## jogador caro
 
 - 👋 Hi, I’m @jaguarisco
 - 👀 eu estou enteressado em aprender e programar novas linguagens
