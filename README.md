@@ -1,7 +1,7 @@
 # sobre mim
 ## jogador caro
 
-- 👋 Hi, I’m @jaguarisco
+- 👋 Hi, I’m @**jaguarisco**
 - 👀 eu estou enteressado em aprender e programar novas linguagens
 - 🌱 eu estou aprendendo a progrmar em linguagem de javascript e scratchm 
 - 💞️ I’m looking to collaborate on ...
